@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fef32969-4237-42d6-83cb-1ebb2a5f806f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataCapture.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker-compose.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="fef32969-4237-42d6-83cb-1ebb2a5f806f" name="Changes" comment="Realtime Change Data Capture Streaming initial commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,6 +26,13 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;GitStage.ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;module&quot;,
+      &quot;repository&quot;
+    ]
   }
 }</component>
   <component name="RunManager">
@@ -77,6 +75,27 @@
       <option name="presentableId" value="Default" />
       <updated>1726030638004</updated>
     </task>
+    <task id="LOCAL-00001" summary="Realtime Change Data Capture Streaming initial commit">
+      <option name="closed" value="true" />
+      <created>1726049321397</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726049321397</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Realtime Change Data Capture Streaming initial commit">
+      <option name="closed" value="true" />
+      <created>1726049409089</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1726049409089</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Realtime Change Data Capture Streaming initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Realtime Change Data Capture Streaming initial commit" />
   </component>
 </project>
