@@ -1,0 +1,23 @@
+Commands to use to demo project
+
+docker compose up -d
+
+# for docker postgres container
+docker exec -it postgres /bin/bash
+
+#access financial_db in postgres
+psql -U postgres -d financial_db
+
+#see all relations
+\d
+
+#see all data in transactions table
+select * from transactions;
+
+#quit table view
+q
+#quit db view
+\q
+#quit postgres
+exit
+
