@@ -1,4 +1,4 @@
-Commands to use to demo project (Real time data capture engineering project)
+Commands to use to demo project (Real time data capture project)
 
 docker compose up -d
 
