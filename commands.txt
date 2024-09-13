@@ -1,4 +1,4 @@
-Commands to use to demo project
+Commands to use to demo project (Real time data capture engineering project)
 
 docker compose up -d
 
@@ -20,4 +20,6 @@ q
 \q
 #quit postgres
 exit
+
+
 
